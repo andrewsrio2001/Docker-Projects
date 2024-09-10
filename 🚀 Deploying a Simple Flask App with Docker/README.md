@@ -24,12 +24,6 @@ Before we start, make sure you have the following installed:
 6.  🚢 Running the Docker Container
 7.  🔍 Verify the Deployment
 
-TRY IT BY OWN ""CONGURATULATION TO YOUSELF  "" AFTER SUSSCESFULLY DEPLOY
-
-NOTE : IF YOU ARE FACING ISSUE YOU CAN REFER MY BLOG THERE I GUIDE STEP BY STEP ON CLICKING LINK -----
-
-
-https://learnwithdivya.hashnode.dev/deploying-a-simple-flask-app-with-docker
 
 
 
