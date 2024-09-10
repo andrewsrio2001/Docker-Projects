@@ -1,7 +1,7 @@
 
 🌐 Just Built a Simple HTTP Request Test App with Flask! 🌐
 I'm thrilled to share my latest project: a straightforward Flask application designed to test and demonstrate HTTP requests. This beginner-friendly project was a fantastic way to delve deeper into web development and understand the dynamics of client-server communication. Use to better Understanding to beginners . 
-Read the full blog post here: [https://lnkd.in/dgQhJ-gm]
+
 
 
 
@@ -12,9 +12,7 @@ Read the full blog post here: [https://lnkd.in/dgQhJ-gm]
 
 
 
-🔗 Read the full blog post here: [https://lnkd.in/dAXZ54GJ] 
-Also check my others blog by clicking here 👇 
-https://lnkd.in/d_tfcRdk
+
 
 This project not only ensures consistency across different environments but also streamlines the deployment process, making it easier and more efficient. Perfect for anyone aiming to integrate Docker into their development workflow. I hope It will be  helpful for who want to start ….
 Feel free to check it out, share your thoughts, and let me know if you have any questions! 😊
