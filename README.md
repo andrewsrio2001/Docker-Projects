@@ -51,4 +51,6 @@ This project demonstrates the power of Docker in isolating and packaging an appl
 
 Feel free to explore, and if you have any issues or suggestions, please create an issue in this repository.
 
- Author[M.Andrews](https://github.com/andrewsrio2001))
+## Author
+
+[M. Andrews](https://github.com/andrewsrio2001)
